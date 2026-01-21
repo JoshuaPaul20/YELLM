@@ -18,7 +18,6 @@ Built for people who think voice assistants have been too comfortable for too lo
 
 YELLM inverts every "calm, private, whisper-friendly" voice assistant paradigm. Instead of optimizing for library-appropriate volumes, YELLM demands you hit **80dB+** before it processes your input.
 
-Think of it as Physical ML Governance meets Anxious Brutalist Design. Or don't. Just yell.
 
 **Key Features:**
 - Volume-gated AI (80dB+ required, no exceptions)
@@ -124,7 +123,7 @@ A: Yes.
 
 ## License
 
-MIT License - Do whatever you want with this. Just don't sue us when your neighbors complain.
+MIT License - Be Loud.
 
 ---
 
