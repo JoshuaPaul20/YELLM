@@ -1,6 +1,7 @@
 # YELLM: THE ANTI-WHISPER
 
 ![YELLM](YELLM.png)
+<img src="YELLM.png" alt="YELLM" width="400">
 
 **Have you ever yelled at your LLM?**
 
